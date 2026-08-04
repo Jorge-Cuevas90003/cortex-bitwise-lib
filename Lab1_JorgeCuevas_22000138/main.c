@@ -7,7 +7,7 @@
 int main() {
 uint8_t bit=1; 
 uint32_t value=0x00000000; //La direccion de memoria
-    for (;;) {
+
 //printf("Hello World\n");
 //printf("Ingresa el numero de bit que deseas modificar: \n\r");
 //scanf("%u",&bit);
@@ -17,5 +17,5 @@ bitSet(&value,bit);
 bitClear(&value,bit);
 
 
-    }
+    
 }
