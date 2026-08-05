@@ -13,9 +13,14 @@ uint32_t value=0x00000000; //La direccion de memoria
 //scanf("%u",&bit);
 
 //llamar las funciones 
+
+
 bitSet(&value,bit);
+
+
 bitClear(&value,bit);
 
-
     
+
+
 }
