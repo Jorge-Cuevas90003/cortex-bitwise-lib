@@ -93,3 +93,7 @@ uv2csolution.log
 **/__pycache__/
 sdsio.log
 
+# Media & Temporary Files
+*.mp4
+*.pdf
+~$*
